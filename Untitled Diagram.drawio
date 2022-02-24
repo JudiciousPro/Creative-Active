@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T08:03:49.985Z" agent="5.0 (Linux; Android 10; TECNO KE5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.99 Mobile Safari/537.36" etag="RA1JCxAhUHcU_xICE1An" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T08:58:43.997Z" agent="5.0 (Linux; Android 10; TECNO KE5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.99 Mobile Safari/537.36" etag="UOOTcaqK1kvOgdw_gpXf" version="16.6.3" type="github">
   <diagram id="p14NGAtfgUeNsUwqX7SL" name="Page-1">
-    <mxGraphModel dx="466" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="866" dy="497" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,20 +20,62 @@
         </object>
         <object label="Objective:&lt;br&gt;To deploy my high quality programming skills to develop sustainable products in a timely and excellent manner leading to an overall unbeatable user experience.&amp;nbsp;" id="03TmYEqxH1GG4p34U5iH-9">
           <mxCell style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;hachureGap=4;fontColor=#46495D;" vertex="1" parent="1">
-            <mxGeometry x="99" y="689" width="210" height="48" as="geometry" />
+            <mxGeometry x="103.25" y="561" width="227.75" height="321" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="03TmYEqxH1GG4p34U5iH-11" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontColor=#46495D;strokeColor=#788AA3;strokeWidth=3;fillColor=#B2C9AB;" vertex="1" parent="1">
           <mxGeometry x="377" y="539" width="270" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="03TmYEqxH1GG4p34U5iH-12" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontColor=#46495D;strokeColor=#788AA3;strokeWidth=3;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="655" y="539" width="270" height="510" as="geometry" />
-        </mxCell>
         <mxCell id="03TmYEqxH1GG4p34U5iH-14" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="137" y="208" width="54" height="25" as="geometry" />
+          <mxGeometry x="135.5" y="989" width="57" height="31" as="geometry" />
         </mxCell>
         <mxCell id="03TmYEqxH1GG4p34U5iH-15" value="Hobbies" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;hachureGap=4;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="120" y="204" width="89" height="29" as="geometry" />
+          <mxGeometry x="127" y="989" width="78" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="03TmYEqxH1GG4p34U5iH-17" value="Work Experience:&lt;br&gt;2019: RMCS, Egbeta&lt;br&gt;2021: CSS, Ozubulu&lt;br&gt;2022:Public Health Department, Ozubulu" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;hachureGap=4;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="58" y="822.5" width="487" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="03TmYEqxH1GG4p34U5iH-20" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="269" y="988" width="59" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="03TmYEqxH1GG4p34U5iH-21" value="Home" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;sketch=0;hachureGap=4;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="-282" y="814" width="43" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="03TmYEqxH1GG4p34U5iH-22" value="Hobbies:&lt;br&gt;Reading&lt;br&gt;Writing&lt;br&gt;Listening to music&lt;br&gt;Watching football" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;hachureGap=4;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="342" y="526" width="340" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="03TmYEqxH1GG4p34U5iH-29" value="Contact Me" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;hachureGap=4;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="287" y="989" width="21" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="03TmYEqxH1GG4p34U5iH-30" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="420" y="997" width="68" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="03TmYEqxH1GG4p34U5iH-34" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;fontColor=#46495D;strokeColor=#788AA3;strokeWidth=3;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="654.5" y="539" width="270" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="03TmYEqxH1GG4p34U5iH-35" value="Contact Me:&lt;br&gt;No.6 Onyido Str., Ozubulu&lt;br&gt;08170691235" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;hachureGap=4;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="659.5" y="548" width="265" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="03TmYEqxH1GG4p34U5iH-37" value="Home" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;hachureGap=4;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="412" y="992" width="60" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="03TmYEqxH1GG4p34U5iH-40" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1000" width="66" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="03TmYEqxH1GG4p34U5iH-39" value="Contact Me" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;hachureGap=4;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="563.5" y="962.5" width="49" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="03TmYEqxH1GG4p34U5iH-31" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="688" y="1001" width="66" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="03TmYEqxH1GG4p34U5iH-33" value="Home" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;hachureGap=4;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="692" y="1001" width="65" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="03TmYEqxH1GG4p34U5iH-19" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;hachureGap=4;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="824" y="1001" width="68" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="03TmYEqxH1GG4p34U5iH-44" value="Hobbies" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;hachureGap=4;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="837" y="1011" width="60" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
